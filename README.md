@@ -7,7 +7,7 @@
 </p>
 
 <h3 align='center'>
-  Contact Me:
+  Contact Me
 </h3>
 
 <p align='center'>
