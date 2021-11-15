@@ -3,8 +3,12 @@
 </h1>
 
 <p align='center'>
-  Fullstack developer from Los Angeles. Currently looking for work.
+  I'm a fullstack web developer from Los Angeles. Checkout all the technologies I'm comfortable with below. I'm currently looking for work.
 </p>
+
+<h3 align='center'>
+  Contact Me:
+</h3>
 
 <p align='center'>
   <a href="www.linkedin.com/in/danielpolitis"> 
@@ -12,6 +16,7 @@
   </a>&nbsp;&nbsp;
  </p>
 
+<h3 align='center'>Languages and Technologies</h3>
 <p align='center'>
  Languages:<br/><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
