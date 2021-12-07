@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I'm a fullstack web developer from Los Angeles. Checkout all the technologies I'm comfortable with below. I'm currently looking for work.
+  I'm a fullstack engineer from Los Angeles. Checkout all the technologies I'm comfortable with below. I'm currently looking for work.
 </p>
 
 <h3 align='center'>
